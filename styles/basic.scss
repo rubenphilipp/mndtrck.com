@@ -1,0 +1,121 @@
+html {
+	
+}
+
+.serif {
+	font-family: 'Cormorant Garamond', serif;
+}
+
+.sans-serif {
+	font-family: 'Proza Libre', sans-serif;
+}
+
+body {
+	background-image:url(../images/polaroid/polaroid.png);
+	background-repeat: repeat;
+
+	text-align:center;
+}
+
+p {
+	@extend .sans-serif;
+	font-size:16px;
+	font-weight:400;
+	color:rgb(0,0,0);
+}
+
+a {
+	@extend .sans-serif;
+	color:rgb(0,0,0);
+	font-size:inherit;
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	@extend .serif;
+	font-weight:400;
+	color:rgb(0,0,0);
+}
+
+h1 {
+	font-size:32px;
+}
+
+h2 {
+	font-size:28px;
+}
+
+.line1 {
+	width:calc(100vw - 30px);
+	max-width:500px;
+	height:30px;
+
+	background-image:url(../images/line1.png);
+	background-size:contain;
+	background-repeat:no-repeat;
+}
+
+#cover-photo {
+	width:calc(100vw - 23px);
+	max-width:522px;
+	text-align:center;
+	margin-left:23px;
+	margin-top:60px;
+	margin-bottom:100px;
+
+	img {
+		width:100%;
+		height:auto;
+	}
+}
+
+#player{
+	width:100vw;
+	max-width:500px;
+	margin-top:60px;
+	margin-bottom:80px;
+}
+
+#tour-dates {
+	width:100vw;
+	max-width:500px;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+#social-icons {
+	font-size:16px;
+
+	h3 {
+		font-style:italic;
+		font-size:22px;
+	}
+
+	a {
+		margin-left:5px;
+		margin-right:5px;
+		font-size:inherit;
+		display:inline-block;
+	}
+}
+
+#copyright-notice {
+	padding-top:100px;
+
+	p {
+		font-size:12px;
+		color:rgb(200,200,200);
+	}
+
+	#imprint {
+		color:inherit;
+	}
+
+	#imprint:hover {
+		color:rgb(150,150,150);
+	}
+}
