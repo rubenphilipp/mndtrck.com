@@ -33,6 +33,8 @@
 	<center>
 		<section id="player">
 			<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4248105612/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/track=2209764668/transparent=true/" seamless><a href="http://mndtrck.bandcamp.com/album/lstn">LSTN! by MND TRCK</a></iframe>
+			
+			<a href="http://mndtrck.bandcamp.com" title="Bandcamp"><img src="images/bandcamp-logotype-dark/bandcamp-logotype-dark-512.png" alt="Bandcamp"></a>
 		</section>
 	</center>
 
@@ -54,6 +56,7 @@
 		<section id="social-icons">
 			<h3>dig into our universe on…</h3>
 	        <a href="http://facebook.com/mndtrck/" title="Facebook">Facebook</a>
+	        <a href="http://mndtrck.bandcamp.com" title="Bandcamp">Bandcamp</a>
 	        <a href="http://soundcloud.com/mndtrck" title="SoundCloud">SoundCloud</a>
 	        <a href="https://play.spotify.com/artist/7FlDuXegcfInlbJjyp88me" title="Spotify">Spotify</a>
 	        <a href="https://itun.es/de/k-kJcb" title="Apple Music">Apple Music</a>

@@ -9,6 +9,45 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/images\/bandcamp-logotype-dark\/bandcamp-logotype-dark-128.png": {
+		"ft": 32768,
+		"iS": 10475,
+		"oA": 0,
+		"oAP": "\/images\/bandcamp-logotype-dark\/bandcamp-logotype-dark-128.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/bandcamp-logotype-dark\/bandcamp-logotype-dark-32.png": {
+		"ft": 32768,
+		"iS": 2366,
+		"oA": 0,
+		"oAP": "\/images\/bandcamp-logotype-dark\/bandcamp-logotype-dark-32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/bandcamp-logotype-dark\/bandcamp-logotype-dark-512.png": {
+		"ft": 32768,
+		"iS": 55005,
+		"oA": 0,
+		"oAP": "\/images\/bandcamp-logotype-dark\/bandcamp-logotype-dark-512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/bandcamp-logotype-dark\/bandcamp-logotype-dark.eps": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/images\/bandcamp-logotype-dark\/bandcamp-logotype-dark.eps",
+		"oF": 0
+		},
 	"\/images\/FB-f-Logo__blue_512.png": {
 		"ft": 32768,
 		"iS": 5793,
