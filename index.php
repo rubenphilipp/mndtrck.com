@@ -47,6 +47,9 @@
 	            <a href="http://www.songkick.com/artists/8767809" class="songkick-widget" data-theme="light" data-detect-style="true" data-background-color="transparent"></a>
 	            <script src="//widget.songkick.com/widget.js"></script>
 	          </center>
+	          <center id="booking">
+	          	<a href="mailto:booking@mndtrck.com" title="contact for booking">contact for booking</a>
+	          </center>
 		</section>
 	</center>
 
